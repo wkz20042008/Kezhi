@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Northumbria University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
