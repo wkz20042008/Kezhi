@@ -14,7 +14,7 @@ role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Northumbriaaaa University
+- name: Northumbriaaaabbbbb University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
